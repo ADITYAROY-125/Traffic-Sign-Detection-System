@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input[type="file"] {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    color: red;
+    text-align: center;
+}
